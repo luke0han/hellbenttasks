@@ -1,0 +1,3 @@
+[submodule "hellbentgoals"]
+	path = hellbentgoals
+	url = https://github.com/luke0han/hellbentgoals.git
